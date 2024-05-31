@@ -1,0 +1,4 @@
+#!/bin/bash
+calc.exe
+open -a Calculator.app
+
